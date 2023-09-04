@@ -1,0 +1,28 @@
+.home-body {
+  font-family: "Karla", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+    "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+
+  background-image: url(../../../public/vectorials/imagine.svg);
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  z-index: 0;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.horizontal-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.content-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-content: flex-start;
+}

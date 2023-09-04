@@ -1,0 +1,48 @@
+.myoptioncontainer{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    color: black;
+    left:50vh;
+    top: 20vh;
+    margin-bottom: 200px;
+}
+.myoption{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    flex-direction: column;
+    border-radius: 20px;
+    box-shadow: 0 2px 2px 6px rgba(0, 0, 0, 0.23);
+
+    justify-content: center;
+}
+
+.content{
+  margin: 100px;
+}
+
+#id2{
+    margin-left: 200px;
+}
+.mytitle{
+    font-size: 30px;
+    text-align: center;
+}
+.titlediv1{
+    height: 20%;
+    margin-top: 15px;
+}
+.titlediv2{
+    height: 20%;
+    margin-top: 15px;
+
+}
+.selectFaculty, .selectLine, .selectYear, .selectDepartment{
+    height: 20%;
+    margin-top: 15px;
+}
+
+.submitOptionButton{
+    margin-top: 15px !important;
+}

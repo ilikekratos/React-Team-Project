@@ -1,0 +1,36 @@
+.form-container{
+  display: flex;
+  flex-direction: column;
+}
+
+.input-item{
+  margin: 100px;
+}
+
+.register-card{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+ position: fixed;
+ top: 12%;
+ left: 37%;
+}
+
+.form-input{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100% !important;
+}
+
+.main-div{
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.textfield-container{
+  height: 95px;
+}

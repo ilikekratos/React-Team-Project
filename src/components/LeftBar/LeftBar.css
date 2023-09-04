@@ -1,0 +1,43 @@
+.leftnavigation{
+    height: 100vh;
+    width: 23vh;
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding: 0.5rem 0rem;
+    background-color: lightgray;
+    color: black;
+    z-index: 4;
+}
+.left-navigation-menu{
+    height: 100vh;
+    width: 100vh;
+    margin-top: 0vh;
+        margin-left: auto;
+        background-color: rgb(240, 240, 240);
+        
+}
+.left-navigation-menu ul{
+
+    padding: 0;
+}
+.left-navigation-menu li{
+    font-size: 1.8em;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+    padding-left: 2vh;
+    display: block;
+
+    border-bottom: 1px solid rgb(151, 151, 151);
+    font-weight:5px;
+
+    
+}
+.left-navigation-menu li:hover{
+
+   
+    background-color: rgb(141, 141, 141);
+    transition: 0.3s;
+
+    
+}
