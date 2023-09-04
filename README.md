@@ -6,5 +6,4 @@
 ### `npm install`
 ### `npm start`
 # React-Team-Project
-# React-Team-Project
-# React-Team-Project
+
